@@ -54,4 +54,4 @@ Download the PDF from this repository.
 
 ## Figma
 
-(Add your Figma link here)
+https://www.figma.com/design/rQWUKItAiyqX3HgrJ5WSLr/Visual-Design?node-id=560-2626&t=blVNfJcvHgGCOBaF-1
